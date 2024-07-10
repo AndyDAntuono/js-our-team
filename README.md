@@ -29,3 +29,6 @@ MILESTONE 0
 - in ogno oggetto ci saranno tre chiavi, che sono "nome", "ruolo" e "img";
 MILESTONE 1
 - riporto su console le informazioni (nome, ruolo, immagine) di ogni membro del team, ergo applico un ciclo for in cui eseguo un console.log per ogni chiave degli oggetti
+MILESTONE 2 
+- creo prima un div con id "our-team-strings" dentro al body del file index.html;
+- poi recupero il div di prima, o elemento del dom, in cui stampare le stesse infomazioni del milestone 1; 
