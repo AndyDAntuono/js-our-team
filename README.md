@@ -21,3 +21,9 @@ Barbara Ramos - Graphic Designer - barbara-ramos-graphic-designer.jpg
 E ricordiamoci che console.log() è nostro amico!
 Buon lavoro!
 P.s. In allegato trovate un esempio di layout e le immagini da utilizzare
+
+/*SOLUZIONE*/
+
+MILESTONE 1
+- Creo una stuttura dati in cui creo un array di oggetti associati ad una costante che nominerò con "ourTeam"
+- in ogno oggetto ci saranno tre chiavi, che sono "nome", "ruolo" e "img"
