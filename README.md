@@ -27,3 +27,5 @@ P.s. In allegato trovate un esempio di layout e le immagini da utilizzare
 MILESTONE 0
 - Creo una stuttura dati in cui creo un array di oggetti associati ad una costante che nominerò con "ourTeam";
 - in ogno oggetto ci saranno tre chiavi, che sono "nome", "ruolo" e "img";
+MILESTONE 1
+- riporto su console le informazioni (nome, ruolo, immagine) di ogni membro del team, ergo recupero i valori delle proprietà degli oggetti usando la dot notation
