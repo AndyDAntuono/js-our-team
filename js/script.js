@@ -30,5 +30,13 @@ const ourTeam = [
         role: 'Graphic Designer',
         img: 'barbara-ramos-graphic-designer.jpg'
     },
-    console.log(name.role.img)
+    
 ];
+
+//console.log(ourTeam[0].name)
+
+for (let i = 0; i < ourTeam.length; i++) {
+    console.log(ourTeam[i].name);
+    console.log(ourTeam[i].role);
+    console.log(ourTeam[i].img);
+  }
