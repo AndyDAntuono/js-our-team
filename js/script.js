@@ -30,5 +30,5 @@ const ourTeam = [
         role: 'Graphic Designer',
         img: 'barbara-ramos-graphic-designer.jpg'
     },
-
+    console.log
 ];
